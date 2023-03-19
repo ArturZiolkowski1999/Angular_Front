@@ -1,0 +1,15 @@
+mat-card {
+    width: 300px;
+    margin: 10px;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .posts-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }

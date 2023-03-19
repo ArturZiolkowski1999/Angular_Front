@@ -1,0 +1,27 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Myszo Jeleń",
+        "content": "To Myszojeleń, król zwierząt na miarę naszych czasów. Długość ciała 40 cm, długość ogona 5 cm, długość tylnej stopy 11 cm, długość ucha 3,5 cm; masa ciała 1,7 kg (wszystkie pomiary pochodzą od jednego okazu)[5]. Górne części T. versicolor mają charakterystyczny wygląd czapraka lub derki. Sierść na grzbiecie jest jednolicie szaro-srebrna i stosunkowo gęsta; końcówki włosów są wyraźnie białe. Obszar szyi i ramion, który ma dość jednolity kolor, jest wyraźnie oddzielony od grzbietu posiadając bardziej brązowawe i mniej gęste futro. Boki szyi mają nieco inny wzór struktury sierści. Futro na szyi wydaje się mieć szorstki, mniej kolczasty wygląd w porównaniu do spokrewnionego T. kanchil. Te szorstkie włosy były jedną z cech użytych podczas opisywania gatunku przez Thomasa. T. versicolor nie posiada ciemnych linii ciągnących się od oka do nosa. Biały obszar dolnej części ciała u T. versicolor przebiega nieprzerwanie od podbródka w kierunku pachwiny i nie jest przerwany poprzecznym, brązowawym kołnierzem pod gardłem, w przeciwieństwie do większości gatunków z rodzaju Tragulus. Ponadto, po bokach i pośrodku brzucha nie ma ciemniejszych oznaczeń, które są charakterystyczne dla T. kanchil w Wietnamie. Czaszka T. versicolor jest znacznie mniejsza niż u wszystkich innych gatunków z rodzaju Tragulus, ale jest stosunkowo szeroka, z szerokimi wybrzuszeniami i bardzo długim nosem. W porównaniu do T. napu i T kanchil duże puszki słuchowe są znacznie bardziej zaokrąglone i napompowane. ",
+        "author": "Jan Kowalski",
+        "images": 
+        [
+          "https://bi.im-g.pl/im/b0/3a/18/z25403824AMP,Wietnam--Naukowcy-odnalezli-kanczyla--czyli-tzw--m.jpg",
+          "https://fera.pl/images/companies/1/kanczyl-srebrnogrzbiety.png?1666160861571",
+          "https://static.polityka.pl/_resource/res/path/83/ce/83ce2f3f-b53e-43be-9f16-8fc33153ce0c_f1400x900"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Szczupak",
+        "content": "To Szczupak, król polskich jezior. Szczupak pospolity osiąga długość do 1,5 m i masę do około 10 kg. Okazy ponad 15–20 kg są rzadkie. Notowany rekord masy wynosił 35 kg[6]. Ciało szczupaka pospolitego jest spłaszczone, opływowe. Głowa wydłużona, ze zwężającymi się szczękami i bardzo szerokim spłaszczonym pyskiem. Zęby szczupaka na żuchwie są skierowane do środka i bardzo ostre, szczęka jest ich pozbawiona. Ponadto liczne zęby występują na kości podniebiennej, kościach międzyszczękowych, lemieszu, kości gnykowej oraz łukach skrzelowych. Łuski są dosyć małe, owalne, mocno osadzone w skórze. Linia boczna dobrze rozwinięta, często poprzerywana, posiada dwa lub trzy rozgałęzienia wzdłuż boków. Na głowie znajdują się liczne jamki zmysłowe. Płetwa grzbietowa i odbytowa są przesunięte mocno do tyłu i położone blisko siebie. Ubarwienie zmienne w zależności od warunków środowiska. Młode osobniki są zwykle jasnozielone, brązowawe lub srebrzyste. Ciemne plamy na bokach zlewają się czasami w poprzeczne smugi. Starsze osobniki mają ciemnozielony grzbiet, jaśniejsze nakrapiane żółtymi plamami boki i biały brzuch. Płetwy parzyste są czerwonawe i jasne, na nieparzystych występują ciemne poprzeczne paski. W dobrych warunkach rośnie bardzo szybko.",
+        "author": "Jan Kowalski",
+        "images": 
+        [
+          "https://cdn.galleries.smcloud.net/t/galleries/gf-8ZLx-DBWi-Fp7m_szczupak-wartosc-odzywcza-zastosowanie-kulinarne-664x442-nocrop.jpg",
+          "https://zasoby.ekologia.pl/artykulyNew/27384/xxl/shutterstock-1234109542_800x600.jpg"
+        ]
+      }
+    ]
+  }

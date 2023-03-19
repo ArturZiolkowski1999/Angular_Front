@@ -1,0 +1,18 @@
+<div class="posts-container">
+  <ng-container *ngIf="post">
+    <mat-card>
+      <mat-card-title [routerLink]="['/post', post.id]" >{{ post.title }}</mat-card-title>
+      <mat-card-content>
+        <p >{{ post.content }}</p>
+        <div *ngFor="let image of post.images">
+          <img src="{{ image }}" alt="{{ post.title }} image">
+        </div>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-button >Likes</button>
+        <button mat-button >Comments</button>
+        <button mat-button [routerLink]="['/postedit', post.id]">Edit</button>
+      </mat-card-actions>
+    </mat-card>
+  </ng-container>
+</div>
