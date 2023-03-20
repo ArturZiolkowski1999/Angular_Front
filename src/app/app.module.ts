@@ -9,7 +9,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './Components/header/header.component';
 import { HomeComponent } from './Pages/home/home.component';
 import { MatToolbarModule } from '@angular/material/toolbar';
-import { MatCardModule } from '@angular/material/card'; 
+import { MatLegacyCardModule as MatCardModule } from '@angular/material/legacy-card'; 
 import { MatIconModule } from '@angular/material/icon';
 import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 import { PostComponent } from './Components/post/post.component';
